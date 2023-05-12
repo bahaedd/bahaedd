@@ -12,3 +12,4 @@
 
        }
 ```
+#### Latest [Laravel](https://aliendev.org) Tutorials
