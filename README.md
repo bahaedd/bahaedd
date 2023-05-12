@@ -1,5 +1,4 @@
-
-
+```php
         public function aboutMe(){  
         
         $name = "Bahaeddine";
@@ -8,7 +7,8 @@
 
         $data = [
           "preferredStack"=> "LAMP Stack, TALL Stack",
-          "hasUsed"=> "Laravel, Livewire, TailwindCSS, VueJS, AlpineJS"
+          "hasUsed"=> "PHP, Laravel, Livewire, TailwindCSS, VueJS, AlpineJS"
         ];
 
        }
+```
