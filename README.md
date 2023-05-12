@@ -1,20 +1,14 @@
-### Hi there 👋
 
-<!--
-**bahaedd/bahaedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+        public function aboutMe(){  
+        
+        $name = "Bahaeddine";
+        
+        $profession = "Full Stack Web Developer";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        $data = [
+          "preferredStack"=> "LAMP Stack, TALL Stack",
+          "hasUsed"=> "Laravel, Livewire, TailwindCSS, VueJS, AlpineJS"
+        ];
 
-## I'm a web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices.
-## My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
-## I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development.
+     }
