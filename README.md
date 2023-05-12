@@ -11,4 +11,4 @@
           "hasUsed"=> "Laravel, Livewire, TailwindCSS, VueJS, AlpineJS"
         ];
 
-     }
+       }
