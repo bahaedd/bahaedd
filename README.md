@@ -16,4 +16,4 @@
 
 - [Custom Route File in Laravel: How to Organize Your Routes](https://aliendev.org/blog/post/custom-route-file-in-laravel-how-to-organize-your-routes)
 - [Laravel tutorials : Validating Passwords](https://aliendev.org/blog/post/laravel-tutorials-validating-passwords)
-- [Laravel Many-to-Many Polymorphic Relationship](https://aliendev.org/blog/post/laravel-many-to-many-polymorphic-relationship)
+- [How to Change Date Format in Laravel 10 ?](https://aliendev.org/blog/post/how-to-change-date-format-in-laravel-10)
