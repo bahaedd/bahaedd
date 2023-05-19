@@ -16,4 +16,4 @@
 
 - [Creating Custom Validation Rules in Laravel](https://aliendev.org/blog/post/creating-custom-validation-rules-in-laravel)
 - [Laravel tutorials : Validating Passwords](https://aliendev.org/blog/post/laravel-tutorials-validating-passwords)
-- [How to Change Date Format in Laravel 10 ?](https://aliendev.org/blog/post/how-to-change-date-format-in-laravel-10)
+- [How to Use Query Scopes in Laravel's Eloquent ORM](https://aliendev.org/blog/post/how-to-use-query-scopes-in-laravel-s-eloquent-orm)
