@@ -18,4 +18,4 @@
 - [Routing : Route Model Binding](https://aliendev.org/blog/post/routing-route-model-binding)
 - [Cross-Origin Resource Sharing (CORS)](https://aliendev.org/blog/post/cross-origin-resource-sharing-cors)
 - [Fallback Routes and Rate Limiting in Laravel](https://aliendev.org/blog/post/fallback-routes-and-rate-limiting-in-laravel)
-- [SEO-Friendly URLs in Laravel with Eloquent-Sluggable](https://aliendev.org/blog/post/seo-friendly-urls-in-laravel-with-eloquent-sluggable)
+- [Eloquent ORM: Simplified Database Interactions](https://aliendev.org/blog/post/eloquent-orm-simplified-database-interactions)
