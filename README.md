@@ -19,3 +19,4 @@
 - [Cross-Origin Resource Sharing (CORS)](https://aliendev.org/blog/post/cross-origin-resource-sharing-cors)
 - [Fallback Routes and Rate Limiting in Laravel](https://aliendev.org/blog/post/fallback-routes-and-rate-limiting-in-laravel)
 - [Eloquent ORM: Simplified Database Interactions](https://aliendev.org/blog/post/eloquent-orm-simplified-database-interactions)
+- [Laravel Sanctum vs. Laravel Passport](https://aliendev.org/blog/post/laravel-sanctum-vs-laravel-passport)
