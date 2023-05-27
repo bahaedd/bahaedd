@@ -15,7 +15,7 @@
 #### Latest [Laravel](https://aliendev.org) Tutorials
 
 - [Installing Vue.js 3 in Laravel 10 with Vite - Step by Step](https://aliendev.org/blog/post/installing-vue-js-3-in-laravel-10-with-vite-step-by-step)
-- [Routing : Route Model Binding](https://aliendev.org/blog/post/routing-route-model-binding)
+- [Laravel 10 Inertia Vue 3 CRUD App Tutorial](https://aliendev.org/blog/post/laravel-10-inertia-vue-3-crud-app-tutorial)
 - [Cross-Origin Resource Sharing (CORS)](https://aliendev.org/blog/post/cross-origin-resource-sharing-cors)
 - [Fallback Routes and Rate Limiting in Laravel](https://aliendev.org/blog/post/fallback-routes-and-rate-limiting-in-laravel)
 - [Eloquent ORM: Simplified Database Interactions](https://aliendev.org/blog/post/eloquent-orm-simplified-database-interactions)
