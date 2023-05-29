@@ -18,5 +18,5 @@
 - [Laravel 10 Inertia Vue 3 CRUD App Tutorial](https://aliendev.org/blog/post/laravel-10-inertia-vue-3-crud-app-tutorial)
 - [Starter Kits: Breeze (Tailwind) or Laravel UI (Bootstrap)](https://aliendev.org/blog/post/starter-kits-breeze-tailwind-or-laravel-ui-bootstrap)
 - [PHP : Exploring PSRs and Coding Styles](https://aliendev.org/blog/post/php-exploring-psrs-and-coding-styles)
-- [Eloquent ORM: Simplified Database Interactions](https://aliendev.org/blog/post/eloquent-orm-simplified-database-interactions)
+- [Laravel : How to Create a Custom Middleware ?](https://aliendev.org/blog/post/laravel-how-to-create-a-custom-middleware)
 - [Laravel Sanctum vs. Laravel Passport](https://aliendev.org/blog/post/laravel-sanctum-vs-laravel-passport)
