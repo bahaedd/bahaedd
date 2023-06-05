@@ -20,3 +20,4 @@
 - [PHP : Exploring PSRs and Coding Styles](https://aliendev.org/blog/post/php-exploring-psrs-and-coding-styles)
 - [Laravel : How to Create a Custom Middleware ?](https://aliendev.org/blog/post/laravel-how-to-create-a-custom-middleware)
 - [Build Powerful CRUD Interfaces with Laravel-Backpack/CRUD](https://aliendev.org/blog/post/build-powerful-crud-interfaces-with-laravel-backpack-crud)
+- [SOLID Principles: Robust and Maintainable Software](https://aliendev.org/blog/post/solid-principles-robust-and-maintainable-software)
