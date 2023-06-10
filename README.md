@@ -14,7 +14,7 @@
 ```
 #### Latest [Laravel](https://aliendev.org) Tutorials
 
-- [Installing Vue.js 3 in Laravel 10 with Vite - Step by Step](https://aliendev.org/blog/post/installing-vue-js-3-in-laravel-10-with-vite-step-by-step)
+- [Code Design Principles: KISS, DRY, TDA, and YAGNI](https://aliendev.org/blog/post/code-design-principles-kiss-dry-tda-and-yagni)
 - [Laravel 10 Inertia Vue 3 CRUD App Tutorial](https://aliendev.org/blog/post/laravel-10-inertia-vue-3-crud-app-tutorial)
 - [Starter Kits: Breeze (Tailwind) or Laravel UI (Bootstrap)](https://aliendev.org/blog/post/starter-kits-breeze-tailwind-or-laravel-ui-bootstrap)
 - [PHP : Exploring PSRs and Coding Styles](https://aliendev.org/blog/post/php-exploring-psrs-and-coding-styles)
