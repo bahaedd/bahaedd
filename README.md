@@ -19,5 +19,5 @@
 - [Starter Kits: Breeze (Tailwind) or Laravel UI (Bootstrap)](https://aliendev.org/blog/post/starter-kits-breeze-tailwind-or-laravel-ui-bootstrap)
 - [Laravel Views: Building Dynamic Web Pages Made Easy](https://aliendev.org/blog/post/laravel-views-building-dynamic-web-pages-made-easy)
 - [URL Generation: Dynamic and SEO-Friendly Links](https://aliendev.org/blog/post/url-generation-dynamic-and-seo-friendly-links)
-- [Build Powerful CRUD Interfaces with Laravel-Backpack/CRUD](https://aliendev.org/blog/post/build-powerful-crud-interfaces-with-laravel-backpack-crud)
+- [Interacting with HTTP Requests in Laravel](https://aliendev.org/blog/post/interacting-with-http-requests-in-laravel)
 - [HTTP Requests: Handling Input Data in Laravel](https://aliendev.org/blog/post/http-requests-handling-input-data-in-laravel)
