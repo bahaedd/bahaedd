@@ -20,4 +20,4 @@
 - [Laravel Views: Building Dynamic Web Pages Made Easy](https://aliendev.org/blog/post/laravel-views-building-dynamic-web-pages-made-easy)
 - [URL Generation: Dynamic and SEO-Friendly Links](https://aliendev.org/blog/post/url-generation-dynamic-and-seo-friendly-links)
 - [Interacting with HTTP Requests in Laravel](https://aliendev.org/blog/post/interacting-with-http-requests-in-laravel)
-- [HTTP Requests: Handling Input Data in Laravel](https://aliendev.org/blog/post/http-requests-handling-input-data-in-laravel)
+- [CSRF: Safeguarding Your Laravel Application](https://aliendev.org/blog/post/csrf-safeguarding-your-laravel-application)
