@@ -21,3 +21,6 @@
 - [URL Generation: Dynamic and SEO-Friendly Links](https://aliendev.org/blog/post/url-generation-dynamic-and-seo-friendly-links)
 - [Interacting with HTTP Requests in Laravel](https://aliendev.org/blog/post/interacting-with-http-requests-in-laravel)
 - [CSRF: Safeguarding Your Laravel Application](https://aliendev.org/blog/post/csrf-safeguarding-your-laravel-application)
+- [One-to-Many Polymorphic Relationship in Laravel](https://aliendev.org/blog/post/one-to-many-polymorphic-relationship-in-laravel)
+- [Laravel Many-to-Many Polymorphic Relationship](https://aliendev.org/blog/post/laravel-many-to-many-polymorphic-relationship)
+- [Laravel Eager Loading : Optimizing Queries](https://aliendev.org/blog/post/laravel-eager-loading-optimizing-queries)
