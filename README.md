@@ -19,3 +19,4 @@
 - [Starter Kits: Breeze (Tailwind) or Laravel UI (Bootstrap)](https://aliendev.org/blog/post/starter-kits-breeze-tailwind-or-laravel-ui-bootstrap)
 - [Laravel Views: Building Dynamic Web Pages Made Easy](https://aliendev.org/blog/post/laravel-views-building-dynamic-web-pages-made-easy)
 - [URL Generation: Dynamic and SEO-Friendly Links](https://aliendev.org/blog/post/url-generation-dynamic-and-seo-friendly-links)
+- [Add Tags to Models with spatie/laravel-tags](https://aliendev.org/blog/post/add-tags-to-models-with-spatie-laravel-tags)
